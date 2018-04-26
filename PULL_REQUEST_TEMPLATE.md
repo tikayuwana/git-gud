@@ -1,5 +1,6 @@
 ## What did you change?
 <!--- Describe your changes in detail -->
+I added my name to the readme.md file
 
 ## Checklist:
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
