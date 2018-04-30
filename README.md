@@ -13,6 +13,7 @@ We're gonna learn how 2 git gud
 ## Who's learning to git gud?
  * Suki
  * Kirk
+ * Michelle
  * Nicole
  * Oliver
  * Daryl
@@ -27,4 +28,3 @@ We're gonna learn how 2 git gud
  * [Getting started with git](http://git-scm.com/book/en/Getting-Started-Git-Basics)
  * [Youtube explanation](https://youtu.be/1ffBJ4sVUb4?t=1m42s)
  * [Git branches explanation](https://www.atlassian.com/git/tutorials/using-branches)
- 
