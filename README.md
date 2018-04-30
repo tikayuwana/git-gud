@@ -13,11 +13,14 @@ We're gonna learn how 2 git gud
 ## Who's learning to git gud?
  * Suki
  * Kirk
+ * Nicole
  * Oliver
  * Daryl
  * Jason
  * Craig
  * Josh Espinas
+
+## Resources
 
  * [Git scm](https://git-scm.com)
  * [Github's cmd git tutorial](https://try.github.io/levels/1/challenges/1)
